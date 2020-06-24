@@ -1,0 +1,24 @@
+body {
+	color: #000;
+	background-color:orange;
+	font-family: 'Arial','sans-serif';
+	font-weight:300!important;
+	margin:2px;
+	text-align: center;
+}
+
+img {
+	width: 40%;
+	height:400px;
+}
+
+h1 {
+	color:#000;
+	font-weight:300!important;
+	margin:0px;
+	border-bottom:solid;
+}
+
+a{
+
+}
